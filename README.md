@@ -92,6 +92,4 @@ If you would like to contribute to this project, please follow these steps:
 For any questions or inquiries, please contact the project owner at `ganeshnikhil124@gmail.com`. 💌
 
 ![Project Screenshot](https://via.placeholder.com/300x100)
-```
 
-I
