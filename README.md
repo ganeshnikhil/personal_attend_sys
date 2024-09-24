@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Attendance Tracking and Reporting System
 
 ![Project Logo](https://via.placeholder.com/150)
