@@ -1,7 +1,10 @@
 
 # 📊 Attendance Tracking and Reporting System
 
-![Project Logo](https://via.placeholder.com/150)
+month graph  | year graph| 
+|--------------|-------------|
+<img src="MONTH/2024_9.png" width = "600"/>| <img src="YEAR/2024.png" width="600"/> |
+
 
 This project is a comprehensive attendance tracking and reporting system that helps organizations efficiently manage employee attendance, generate monthly and annual reports, and automate email notifications.
 
