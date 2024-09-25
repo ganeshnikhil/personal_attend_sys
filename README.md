@@ -1,6 +1,7 @@
 
 # 📊 Attendance Tracking and Reporting System
 
+# graphs that will shared by email after each month or end year.
 month graph  | year graph| 
 |--------------|-------------|
 <img src="MONTH/9_2024.png" width = "600"/>| <img src="YEAR/2024.png" width="600"/> |
