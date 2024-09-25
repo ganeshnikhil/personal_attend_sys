@@ -1,14 +1,6 @@
 
 # 📊 Attendance Tracking and Reporting System
 
-# graphs that will shared by email after each month or end year.
-month graph  | year graph| 
-|--------------|-------------|
-<img src="MONTH/9_2024.png" width = "600"/>| <img src="YEAR/2024.png" width="600"/> |
-
-# interactive UI for entry and update attendance using gradio
-<img src="attendance.png" width = "800"/>
-
 This project is a comprehensive attendance tracking and reporting system that helps organizations efficiently manage employee attendance, generate monthly and annual reports, and automate email notifications.
 
 ## 🚀 Features
@@ -97,5 +89,12 @@ If you would like to contribute to this project, please follow these steps:
 
 For any questions or inquiries, please contact the project owner at `ganeshnikhil124@gmail.com`. 💌
 
-![Project Screenshot](https://via.placeholder.com/300x100)
+# graphs that will shared by email after each month or end year.
+month graph  | year graph| 
+|--------------|-------------|
+<img src="MONTH/9_2024.png" width = "600"/>| <img src="YEAR/2024.png" width="600"/> |
+
+# interactive UI for entry and update attendance using gradio
+<img src="attendance.png" width = "800"/>
+
 
